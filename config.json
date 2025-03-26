@@ -5,21 +5,5 @@
   "uuid": "6a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
   "author": "momijiina",
   "version": "1.0.0",
-  "plugin_type": "view",
-  "route": [
-    {
-      "uri": "lend",
-      "method": [
-        "post"
-      ],
-      "function": "lendItem"
-    },
-    {
-      "uri": "return",
-      "method": [
-        "post"
-      ],
-      "function": "returnItem"
-    }
-  ]
+  "plugin_type": "view"
 }
