@@ -6,4 +6,13 @@
   "author": "momijiina",
   "version": "1.0.0",
   "plugin_type": "view"
+    "route": [
+        {
+            "uri": "update",
+            "method": [
+                "post"
+            ],
+            "function": "update"
+        }
+    ]
 }
