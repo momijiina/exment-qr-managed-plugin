@@ -4,8 +4,8 @@
   "description": "QRコードと管理番号を使った貸出・返却システムを提供します。",
   "uuid": "6a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
   "author": "momijiina",
-  "version": "1.0.0",
-  "plugin_type": "view"
+  "version": "1.0.5",
+  "plugin_type": "view",
   "route": [
       {
           "uri": "update",
