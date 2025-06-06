@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+    <!--<script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>-->
     <title>QRによる貸出管理システム</title>
     <style>
     .lending-system-container {
