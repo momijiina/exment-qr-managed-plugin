@@ -1,7 +1,7 @@
 {
   "plugin_name": "LendingSystem",
   "plugin_view_name": "貸出・返却システム",
-  "description": "QRコードと管理番号を使った貸出・返却システムを提供します。",
+  "description": "QRコードと管理番号を使った貸出・返却システムのテストプラグイン",
   "uuid": "6a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
   "author": "momijiina",
   "version": "1.0.5",
